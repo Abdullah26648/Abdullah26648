@@ -1,14 +1,18 @@
-# Hi there! 👋
+Hi there! 👋
 
-I'm Abdullah (@Abdullah26648), and I'm passionate about all things technology. I love exploring and learning about the latest trends and innovations in the tech world.
+I'm Abdullah (@Abdullah26648) — a tech enthusiast with a strong passion for software testing and automation.
 
-🌱 Currently, I'm on a journey to expand my knowledge and skills in Java. It's a versatile and powerful programming language, and I'm excited to delve deeper into it.
+🚀 Over time, I’ve built solid hands-on experience in Java, along with frameworks like TestNG, JUnit, and Cucumber. I’m also well-versed in API testing using Selenium, the CAST framework (CAST:UI and CAST:GUI), and tools like Postman, Insomnia, and JMeter.
 
-💞 I'm open to collaboration on exciting test projects. If you have an interesting project idea or want to work on something together, feel free to reach out. I believe that great things happen when we work together and share our expertise.
+🧪 I’ve scripted and contributed to multiple automation projects, and I’m comfortable working with Cypress for front-end test automation. Currently, I'm diving deeper into Playwright with TypeScript, adding another powerful tool to my testing stack.
 
-📫 You can get in touch with me via email at [abdullah26648@gmail.com](mailto:abdullah26648@gmail.com). I'm always eager to connect with fellow tech enthusiasts, exchange ideas, and explore new opportunities.
+💻 In terms of languages, I’m proficient in Java, and I have a good grasp of Python, JavaScript, and I’m actively learning TypeScript.
 
-Let's learn, code, and create amazing things together! 🚀
+🤝 I'm always open to collaborating on exciting testing projects. Whether it’s automation, tools integration, or exploratory testing strategies—if you're looking to team up, feel free to reach out!
+
+📫 You can contact me at abdullah26648@gmail.com. I’d love to connect, exchange ideas, and explore opportunities to build better software together.
+
+Let’s automate, innovate, and grow—one test at a time! 🌱
 
 <!---
 Abdullah26648/Abdullah26648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
